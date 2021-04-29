@@ -1,3 +1,5 @@
+![Home page](https://xerxez.in/wp-content/uploads/2021/04/front_image-scaled.jpg?raw=true "Main Page")
+
 # Heart-Disease-ML
 I worked on predicting potential Heart Diseases in people using Machine Learning algorithms.
 <br>
